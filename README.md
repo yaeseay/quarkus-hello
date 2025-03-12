@@ -16,7 +16,7 @@ You can run your application in dev mode that enables live coding using:
 
 ## Added comment
 
-What the hell
+What the hell and so on
 
 ## Packaging and running the application
 
